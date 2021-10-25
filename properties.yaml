@@ -3,3 +3,4 @@ moodle: https://moodle.wit.ie
 youtube: https://www.youtube.com/
 zoom: https://zoom.us/
 credits: Your Name Here, WIT
+parent: #course/tutors-docs.netlify.app
